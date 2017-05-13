@@ -1,2 +1,2 @@
 # MovieWatcher
-Application to track the movies viewed.
+Application to track movies viewed.
